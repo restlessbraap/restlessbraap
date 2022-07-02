@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erin.</h1>
-<h3 align="center">A passionate developer from the beautiful state of Vermont, USA.⛰️</h3>
+<h3 align="center">A passionate developer from the beautiful state of Vermont, USA. ⛰️</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
